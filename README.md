@@ -31,6 +31,5 @@ I’m a passionate **Full Stack Developer**, **UI Designer**, and **Tech Enthusi
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) 
 
 ### 📫 How to Reach Me  
-- 📧 Email: [dilshansiriwardhan@gmail.com](mailto:dilshansiriwardhan@gmail.com)  
-- 🌐 [GitHub Profile](https://github.com/dilshansiriwardhan)  
+- 📧 Email: [dilshansiriwardhan@gmail.com](mailto:dilshansiriwardhan@gmail.com) 
 
