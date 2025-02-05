@@ -14,16 +14,6 @@ You can click the Preview link to take a look at your changes.
 ### 🚀 About Me  
 I’m a passionate **Full Stack Developer**, **UI Designer**, and **Tech Enthusiast**. I love building scalable web applications and crafting clean, user-friendly interfaces. With experience in **Python**, **Java**, and **MERN stack**, I enjoy working on projects that solve real-world problems.  
 
-### 🔭 What I'm Working On  
-- Building an **e-commerce app** with modern web technologies.  
-- Exploring **Data Engineering** and preparing for coding interviews.  
-- Learning and implementing **role-based access control** with **Clerk** and **Next.js**.  
-
-### 🌱 Currently Learning  
-- **Data Engineering** concepts and best practices.  
-- Advanced **backend techniques** for creating robust **Q&A systems**.  
-- **React Refresh** for mastering modern front-end development.  
-
 ### 💡 Interests  
 - Full Stack Web Development  
 - Machine Learning  
@@ -39,16 +29,6 @@ I’m a passionate **Full Stack Developer**, **UI Designer**, and **Tech Enthusi
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)  
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
-
----
-
-### 📊 GitHub Stats  
-
-| ![Dilshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilshansiriwardhan&show_icons=true&hide=stars&count_private=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshansiriwardhan&layout=compact&theme=radical) |
-| --- | --- |
-
----
 
 ### 📫 How to Reach Me  
 - 📧 Email: [dilshansiriwardhan@gmail.com](mailto:dilshansiriwardhan@gmail.com)  
