@@ -9,16 +9,16 @@ dilshansiriwardhan/dilshansiriwardhan is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi there! 👋 I'm Dilshan Siriwardhan  
+# Hi there! 👋 I'm Dila
 
-### 🚀 About Me  
-I’m a passionate **Full Stack Developer**, **UI Designer**, and **Tech Enthusiast**. I love building scalable web applications and crafting clean, user-friendly interfaces. With experience in **Python**, **Java**, and **MERN stack**, I enjoy working on projects that solve real-world problems.  
+### 🚀 Me ?
+I’m passionate for **Web Development**, **UI/UX Designing**, and **ML (Agentic AI) **. I love building scalable web applications and crafting clean, user-friendly interfaces. With experience in **Javascript**, I enjoy working on projects that solve real-world problems using **Python**.  
 
 ### 💡 Interests  
 - Full Stack Web Development  
 - Machine Learning  
-- Internet of Things (IoT)  
-- Business & Financial Planning  
+- Internet of Things (IoT)
+- Data Science
 
 ### 🛠️ Technologies & Tools  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
