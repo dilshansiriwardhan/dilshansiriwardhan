@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 # Hi there! 👋 I'm Dila
 
 ### 🚀 Me ?
-I’m passionate for **Web Development**, **UI/UX Designing**, and **ML (Agentic AI) **. I love building scalable web applications and crafting clean, user-friendly interfaces. With experience in **Javascript**, I enjoy working on projects that solve real-world problems using **Python**.  
+I’m passionate for **Web Development**, **UI/UX Designing**, and **ML/Agentic AI/Data Science**. I love building scalable web applications and crafting clean, user-friendly interfaces. With experience in **Javascript**, I enjoy working on projects that solve real-world problems using **Python**.  
 
 ### 💡 Interests  
 - Full Stack Web Development  
